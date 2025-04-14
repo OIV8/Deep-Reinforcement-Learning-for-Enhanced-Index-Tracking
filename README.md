@@ -15,7 +15,7 @@ The project consists of the following components:
     - TCN-based policy and value networks.
     - PPO training and evaluation framework.
 
-⚠️ Important Note: The 'single_agent.py' implementation is designed to run exclusively on **NVIDIA GPUs** with CUDA support. CPU execution is not supported due to heavy computational requirements.
+⚠️ Important Note: The `single_agent.py` implementation is designed to run exclusively on **NVIDIA GPUs** with CUDA support. CPU execution is not supported due to heavy computational requirements.
 
 ## 🧠 Methodology
 
